@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="ow-wrapper">
     <NuxtPage />
   </div>
 </template>
